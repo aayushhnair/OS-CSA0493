@@ -11,3 +11,11 @@ b. Assume that no process waits on I/O devices.
 6. Construct a C program to implement pre-emptive priority scheduling algorithm.
 7. Construct a C program to implement non-preemptive SJF algorithm.
 8. Construct a C program to simulate Round Robin scheduling algorithm with C.
+9. Illustrate the concept of inter-process communication using shared memory with a C program.  
+10. Illustrate the concept of inter-process communication using message queue with a C program.  
+11. Illustrate the concept of multithreading using a C program.
+12. Design a C program to simulate the concept of Dining-Philosophers problem
+13. Construct a C program for implementation the various memory allocation strategies.
+14. Construct a C program to organize the file using single level directory.
+15. Design a C program to organize the file using two level directory structure.
+16. Develop a C program for implementing random access file for processing the employee details.
