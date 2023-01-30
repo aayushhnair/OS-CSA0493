@@ -44,4 +44,3 @@ b. Assume that no process waits on I/O devices.
 38. Design a C program to simulate SCAN disk scheduling algorithm.
 39. Develop a C program to simulate C-SCAN disk scheduling algorithm.
 40. Illustrate the various File Access Permission and different types users in Linux.
-
